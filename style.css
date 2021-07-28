@@ -1,0 +1,51 @@
+body {
+    background-color: rgba(14, 13, 13, 0.733);
+  }
+h1 {
+    color: coral; 
+    text-align: center; 
+    font-variant: small-caps; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+button {
+    background-color: rgba(45, 46, 46, 0.733);
+    border: none;
+    color: cadetblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.guillotine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+
+}
+.Stuart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.dundee {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+section {
+    border-width: 30px; 
+    border-style: solid; 
+    border-color: coral;
+}
+p {
+    color: cadetblue; 
+    text-emphasis-color: coral; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+footer {
+    color: cadetblue;
+}
