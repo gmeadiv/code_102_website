@@ -16,6 +16,7 @@ button {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    margin: 0px 5px; 
 }
 .guillotine {
     display: block;
@@ -37,9 +38,8 @@ button {
     width: 25%;
 }
 section {
-    border-width: 30px; 
-    border-style: solid; 
-    border-color: coral;
+    border: coral solid 15px; 
+    margin: 5px 0px; 
 }
 p {
     color: cadetblue; 
