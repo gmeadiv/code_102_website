@@ -1,0 +1,1 @@
+let userQuest=prompt('What is your Quest?')
