@@ -1,1 +1,1 @@
-confirm("Monty Python Still Holds Up Doesn't It?")
+// confirm("Monty Python Still Holds Up Doesn't It?")

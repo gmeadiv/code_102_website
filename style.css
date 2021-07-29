@@ -1,12 +1,21 @@
 body {
     background-color: rgba(14, 13, 13, 0.733);
   }
+
 h1 {
     color: coral; 
     text-align: center; 
     font-variant: small-caps; 
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.guillotine {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 button {
     background-color: rgba(45, 46, 46, 0.733);
     border: none;
@@ -18,34 +27,46 @@ button {
     font-size: 16px;
     margin: 0px 5px; 
 }
-.guillotine {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
 
+h2 {
+    color: cadetblue;
+    font-style: italic;
 }
+
+h3 {
+    color: cadetblue;
+}
+
+section {
+    border: coral solid 10px; 
+    margin: 10px 0px; 
+}
+
+p {
+    color: cadetblue; 
+    text-emphasis-color: coral; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px 40px;
+} 
+
+img {
+    margin: 10px 0px
+}
+
 .Stuart {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
 }
+
 .dundee {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
 }
-section {
-    border: coral solid 15px; 
-    margin: 5px 0px; 
-}
-p {
-    color: cadetblue; 
-    text-emphasis-color: coral; 
-    font-family: Georgia, 'Times New Roman', Times, serif;
-} 
+
 footer {
     color: cadetblue;
 }
